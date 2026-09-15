@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, meu nome é José Eduardo  👋
 
 <!--
 **EduardoCoutinhoBarbosa/EduardoCoutinhoBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
